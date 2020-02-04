@@ -4,4 +4,4 @@ The INSPiRE project seeks to understand better how the search for new informatio
 
 # Copyright
 
-The content of the website is under copyright. However, codes such as HTML, CSS and Java, unless otherwise stated, is licensed under a GPL-3 license. 
+The content of the website is under copyright. However, codes such as HTML, CSS and Java, unless otherwise stated, is licensed under a GPL-3 license.
