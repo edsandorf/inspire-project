@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: News
+  link: /news.html
+- name: Blog
+  link: /blog.html
+- name: Publications
+  link: /publications.html
+- name: About us
+  link: /about-us.html
+- name: About the project
+  link: /about.html

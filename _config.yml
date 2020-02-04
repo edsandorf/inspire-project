@@ -1,0 +1,15 @@
+remote_theme: edsandorf/jekyll-pro-theme
+skin: "inspire-project"
+
+google_analytics: UA-154953740-2
+
+show_navigation: true
+show_search_bar: true
+show_downloads: false
+to_the_top: true
+
+creator: Erlend Dancke Sandorf
+
+e_mail: e.d.sandorf@stir.ac.uk
+github_handle: edsandorf/inspire-project-website
+twitter_handle: INSPiREProject4
