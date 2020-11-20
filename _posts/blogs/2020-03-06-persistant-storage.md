@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Persistent storage on Shinyapps.io: Storing your survey responses responsibly
+title: "Persistent storage on Shinyapps.io: Storing your survey responses responsibly"
 header-image: /assets/img/blogs/code-block.jpg
 author: Erlend Dancke Sandorf
 category: blog
