@@ -6,5 +6,4 @@ subtitle: "A comprehensive list of publications including journal articles, popu
 header-image: "/assets/img/publications.jpg"
 ---
 
-# No publications from the project yet
 {% include feed.html category_to_display = "publication" %}
