@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A demo version of the survey instrument is online
-header-image: /assets/img/news/survey-intro.jpg
+header-image: /assets/img/news/survey-intro.PNG
 author: Erlend Dancke Sandorf
-image: /assets/img/news/survey-intro.jpg
+image: /assets/img/news/survey-intro.PNG
 category: news
 excerpt: We have published a demo version of the survey instrument and made the source code for the Shiny implementation freely available online. 
 ---

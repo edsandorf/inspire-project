@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The sample choice tasks as a Shiny app
-header-image: /assets/img/news/survey-intro.jpg
+header-image: /assets/img/news/choice-tasks.PNG
 author: Erlend Dancke Sandorf
-image: /assets/img/news/survey-intro.jpg
+image: /assets/img/news/choice-tasks.PNG
 category: news
 excerpt: Can we use a Shiny application to show reviewers interactive choice tasks?
 ---
